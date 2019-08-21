@@ -1,0 +1,33 @@
+buildscript{
+    ext{
+        dependencyManagementVersion ="1.0.6.RELEASE"
+        springBootVersion="2.0.1.RELEASE"
+
+    }
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath("io.spring.gradle:dependency-management-plugin:${dependencyManagementVersion}")
+        classpath "org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}"
+    }
+}
+
+apply plugin: "io.spring.dependency-management"
+
+allprojects{
+    group= 'io.yamory'
+    version='0.0.1-SNAPSHOT'
+}
+
+subprojects {
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+    apply plugin: 'java'
+    apply plugin: "io.spring.dependency-management"
+}
+

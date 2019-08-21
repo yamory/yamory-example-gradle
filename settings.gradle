@@ -1,0 +1,4 @@
+rootProject.name = 'yamory-example-gradle'
+include 'subproject-util'
+include 'subproject-web'
+include 'subproject-db'
