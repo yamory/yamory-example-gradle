@@ -6,7 +6,6 @@ buildscript{
     }
     repositories {
         mavenCentral()
-        jcenter()
     }
     dependencies {
         classpath("io.spring.gradle:dependency-management-plugin:${dependencyManagementVersion}")
@@ -24,7 +23,6 @@ allprojects{
 subprojects {
     repositories {
         mavenCentral()
-        jcenter()
     }
 
     apply plugin: 'java'
