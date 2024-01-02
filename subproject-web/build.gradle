@@ -7,4 +7,3 @@ dependencies {
     implementation project(':subproject-util')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
 }
-

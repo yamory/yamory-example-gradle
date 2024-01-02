@@ -1,5 +1,21 @@
-dependencies {
-    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.5'
-    implementation group: 'org.apache.commons', name: 'commons-collections4', version: '4.0'
+buildscript{
+    ext{
+        dependencyManagementVersion ="1.0.6.RELEASE"
+        springBootVersion="2.0.1.RELEASE"
+
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("io.spring.gradle:dependency-management-plugin:${dependencyManagementVersion}")
+        classpath "org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}"
+    }
 }
 
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    implementation('com.fasterxml.jackson.core:jackson-databind:2.9.5')
+    implementation('org.apache.commons:commons-collections4:4.0')
+}
