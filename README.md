@@ -6,4 +6,4 @@ Please enjoy hunting vulns!
 ## Requirements
 
 - Java 11+
-- Gradle 5.4+
+- Gradle 6.9+
