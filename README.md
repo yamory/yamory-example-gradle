@@ -5,5 +5,5 @@ Please enjoy hunting vulns!
 
 ## Requirements
 
-- Java 11+
-- Gradle 5.4+
+- Java 8+
+- Gradle 4.10+
