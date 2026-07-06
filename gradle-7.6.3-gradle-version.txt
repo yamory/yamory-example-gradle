@@ -1,0 +1,14 @@
+
+------------------------------------------------------------
+Gradle 7.6.3
+------------------------------------------------------------
+
+Build time:   2023-10-04 15:59:47 UTC
+Revision:     1694251d59e0d4752d547e1fd5b5020b798a7e71
+
+Kotlin:       1.7.10
+Groovy:       3.0.13
+Ant:          Apache Ant(TM) version 1.10.11 compiled on July 10 2021
+JVM:          17.0.19 (Azul Systems, Inc. 17.0.19+10-LTS)
+OS:           Mac OS X 15.7.7 aarch64
+
