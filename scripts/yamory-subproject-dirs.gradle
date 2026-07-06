@@ -1,0 +1,5 @@
+gradle.projectsLoaded {
+	gradle.rootProject.allprojects { p ->
+		println "YAMORY_SUBPROJECT_DIR\t${p.path}\t${p.projectDir}"
+	}
+}
