@@ -1,0 +1,26 @@
+YAMORY_SUBPROJECT_DIR	:	/path/to/github.com/yamory/yamory-example-gradle
+YAMORY_SUBPROJECT_DIR	:subproject-db	/path/to/github.com/yamory/yamory-example-gradle/subproject-db
+YAMORY_SUBPROJECT_DIR	:subproject-dir	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir
+YAMORY_SUBPROJECT_DIR	:subproject-util	/path/to/github.com/yamory/yamory-example-gradle/subproject-util
+YAMORY_SUBPROJECT_DIR	:subproject-web	/path/to/github.com/yamory/yamory-example-gradle/subproject-web
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject1	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules1/nested-subproject1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject2	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules1/nested-subproject2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject1	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules2/nested-subproject1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject2	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules2/nested-subproject2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject3	/path/to/github.com/yamory/yamory-example-gradle/subproject-dir/modules2/nested-subproject3
+
+Welcome to Gradle 8.4.
+
+To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see more detail about a task, run gradlew help --task <task>
+
+To see a list of command-line options, run gradlew --help
+
+For more detail on using Gradle, see https://docs.gradle.org/8.4/userguide/command_line_interface.html
+
+For troubleshooting, visit https://help.gradle.org
