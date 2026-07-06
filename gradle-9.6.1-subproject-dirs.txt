@@ -1,0 +1,26 @@
+YAMORY_SUBPROJECT_DIR	:	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1
+YAMORY_SUBPROJECT_DIR	:subproject-db	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-db
+YAMORY_SUBPROJECT_DIR	:subproject-dir	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir
+YAMORY_SUBPROJECT_DIR	:subproject-util	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-util
+YAMORY_SUBPROJECT_DIR	:subproject-web	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-web
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject1	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules1/nested-subproject1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject2	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules1/nested-subproject2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject1	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules2/nested-subproject1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject2	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules2/nested-subproject2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject3	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1/subproject-dir/modules2/nested-subproject3
+
+Welcome to Gradle 9.6.1.
+
+To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see more detail about a task, run gradlew help --task <task>
+
+To see a list of command-line options, run gradlew --help
+
+For more detail on using Gradle, see https://docs.gradle.org/9.6.1/userguide/command_line_interface.html
+
+For troubleshooting, visit https://help.gradle.org

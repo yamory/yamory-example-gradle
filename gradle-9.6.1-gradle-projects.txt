@@ -1,0 +1,48 @@
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/9.6.1/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+
+> Task :projects
+
+Projects:
+
+------------------------------------------------------------
+Root project 'yamory-example-gradle'
+------------------------------------------------------------
+
+Location: /Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle9.6.1
+
+Project hierarchy:
+
+Root project 'yamory-example-gradle'
++--- Project ':subproject-db'
++--- Project ':subproject-dir'
+|    +--- Project ':subproject-dir:modules1'
+|    |    +--- Project ':subproject-dir:modules1:nested-subproject1'
+|    |    \--- Project ':subproject-dir:modules1:nested-subproject2'
+|    \--- Project ':subproject-dir:modules2'
+|         +--- Project ':subproject-dir:modules2:nested-subproject1'
+|         +--- Project ':subproject-dir:modules2:nested-subproject2'
+|         \--- Project ':subproject-dir:modules2:nested-subproject3'
++--- Project ':subproject-util'
+\--- Project ':subproject-web'
+
+Project locations:
+
+project ':subproject-db' - /subproject-db
+project ':subproject-dir' - /subproject-dir
+project ':subproject-dir:modules1' - /subproject-dir/modules1
+project ':subproject-dir:modules1:nested-subproject1' - /subproject-dir/modules1/nested-subproject1
+project ':subproject-dir:modules1:nested-subproject2' - /subproject-dir/modules1/nested-subproject2
+project ':subproject-dir:modules2' - /subproject-dir/modules2
+project ':subproject-dir:modules2:nested-subproject1' - /subproject-dir/modules2/nested-subproject1
+project ':subproject-dir:modules2:nested-subproject2' - /subproject-dir/modules2/nested-subproject2
+project ':subproject-dir:modules2:nested-subproject3' - /subproject-dir/modules2/nested-subproject3
+project ':subproject-util' - /subproject-util
+project ':subproject-web' - /subproject-web
+
+To see a list of the tasks of a project, run gradlew <project-path>:tasks
+For example, try running gradlew :subproject-db:tasks
+
+BUILD SUCCESSFUL in 2s
+1 actionable task: 1 executed
+Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.6.1/userguide/configuration_cache_enabling.html
