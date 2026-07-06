@@ -1,0 +1,13 @@
+YAMORY_SUBPROJECT_DIR	:	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle5.4/subproject-util
+
+Welcome to Gradle 5.4.
+
+To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see a list of command-line options, run gradlew --help
+
+To see more detail about a task, run gradlew help --task <task>
+
+For troubleshooting, visit https://help.gradle.org
