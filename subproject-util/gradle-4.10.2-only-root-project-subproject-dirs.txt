@@ -1,0 +1,13 @@
+YAMORY_SUBPROJECT_DIR	:	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle4.10.2/subproject-util
+
+Welcome to Gradle 4.10.2.
+
+To run a build, run gradlew <task> ...
+
+To see a list of available tasks, run gradlew tasks
+
+To see a list of command-line options, run gradlew --help
+
+To see more detail about a task, run gradlew help --task <task>
+
+For troubleshooting, visit https://help.gradle.org
