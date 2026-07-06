@@ -1,15 +1,15 @@
-YAMORY_SUBPROJECT_DIR	:	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4
-YAMORY_SUBPROJECT_DIR	:subproject-db	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-db
-YAMORY_SUBPROJECT_DIR	:subproject-dir	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir
-YAMORY_SUBPROJECT_DIR	:subproject-util	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-util
-YAMORY_SUBPROJECT_DIR	:subproject-web	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-web
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules1
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject1	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules1/nested-subproject1
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject2	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules1/nested-subproject2
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject1	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2/nested-subproject1
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject2	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2/nested-subproject2
-YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject3	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2/nested-subproject3
+YAMORY_SUBPROJECT_DIR	:	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4
+YAMORY_SUBPROJECT_DIR	:subproject-db	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-db
+YAMORY_SUBPROJECT_DIR	:subproject-dir	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir
+YAMORY_SUBPROJECT_DIR	:subproject-util	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-util
+YAMORY_SUBPROJECT_DIR	:subproject-web	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-web
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject1	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules1/nested-subproject1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules1:nested-subproject2	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules1/nested-subproject2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject1	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2/nested-subproject1
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject2	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2/nested-subproject2
+YAMORY_SUBPROJECT_DIR	:subproject-dir:modules2:nested-subproject3	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-dir/modules2/nested-subproject3
 
 Welcome to Gradle 6.9.4.
 

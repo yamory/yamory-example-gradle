@@ -1,4 +1,4 @@
-YAMORY_SUBPROJECT_DIR	:	/Users/yusuke.koyoshi/ghq/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-util
+YAMORY_SUBPROJECT_DIR	:	/path/to/github.com/yamory/yamory-example-gradle/.claude/worktrees/gradle6.9.4/subproject-util
 
 Welcome to Gradle 6.9.4.
 
